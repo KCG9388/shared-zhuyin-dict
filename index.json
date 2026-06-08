@@ -68,7 +68,7 @@
     }
   ],
   "integrated": {
-    "name": "全包(所有模板合併)",
+    "name": "綜合(所有模板合併)",
     "file": "integrated/all.txt",
     "count": 239
   }
