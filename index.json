@@ -1,0 +1,75 @@
+{
+  "project": "共享字庫",
+  "desc": "微軟注音使用者造詞・社群共享字庫。下載模板或整合全包,用「字庫管家」驗證後匯入。",
+  "templates": [
+    {
+      "name": "英雄聯盟",
+      "category": "遊戲",
+      "file": "templates/lol.txt",
+      "count": 36,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "巴哈電動常用",
+      "category": "遊戲",
+      "file": "templates/gaming.txt",
+      "count": 80,
+      "contributor": "社群(巴哈)",
+      "license": "CC-BY"
+    },
+    {
+      "name": "電腦與網路",
+      "category": "科技",
+      "file": "templates/computer.txt",
+      "count": 42,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "網路用語",
+      "category": "科技",
+      "file": "templates/internet.txt",
+      "count": 17,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "數理邏輯",
+      "category": "學術",
+      "file": "templates/math.txt",
+      "count": 9,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "自然科學",
+      "category": "學術",
+      "file": "templates/science.txt",
+      "count": 8,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "一般性詞彙",
+      "category": "日常",
+      "file": "templates/general.txt",
+      "count": 19,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "基督教",
+      "category": "宗教",
+      "file": "templates/christian.txt",
+      "count": 30,
+      "contributor": "davidhcefx",
+      "license": "GPL-3.0"
+    }
+  ],
+  "integrated": {
+    "name": "全包(所有模板合併)",
+    "file": "integrated/all.txt",
+    "count": 239
+  }
+}
