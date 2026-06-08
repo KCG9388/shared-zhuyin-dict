@@ -65,19 +65,11 @@
       "count": 30,
       "contributor": "davidhcefx",
       "license": "GPL-3.0"
-    },
-    {
-      "name": "空白字庫",
-      "category": "其他",
-      "file": "templates/sub_001.txt",
-      "count": 1,
-      "contributor": "KC",
-      "license": "社群投稿"
     }
   ],
   "integrated": {
     "name": "全包(所有模板合併)",
     "file": "integrated/all.txt",
-    "count": 240
+    "count": 239
   }
 }
