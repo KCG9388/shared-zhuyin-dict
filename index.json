@@ -74,11 +74,19 @@
       "count": 10,
       "contributor": "Daniel",
       "license": "社群投稿"
+    },
+    {
+      "name": "260609綜合",
+      "category": "其他",
+      "file": "templates/sub_002.txt",
+      "count": 246,
+      "contributor": "KC",
+      "license": "社群投稿"
     }
   ],
   "integrated": {
     "name": "綜合(所有模板合併)",
     "file": "integrated/all.txt",
-    "count": 249
+    "count": 353
   }
 }
